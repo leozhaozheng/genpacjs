@@ -1,26 +1,46 @@
 name: Node.js CI
 
 on:
-  push:
-    branches: [ dev ]
-  pull_request:
-    branches: [ dev ]
+  schedule:
+    - cron: '37 19 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  update:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [14.x, 16.x, 18.x, 20.x]
-
     steps:
+      - name: Install packages
+        run: |
+          sudo apt install npm
+          npm install -g genpac
+
       - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
-      - run: npm ci
-      - run: npm run build --if-present
-      - run: npm test
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/checkout@v3
+        with:
+          repository: leozhaozheng/genpacjs
+          path: genpacjs
+
+      - uses: actions/checkout@v3
+        with:
+          repository: gfwlist/gfwlist
+          path: gfwlist
+
+      - uses: leozhaozheng/git-config-user@master
+        with:
+          path: .
+
+      - name: update
+        run: |
+          genpac --proxy "SOCKS5://127.0.0.1" -o gfwlist_ios.pac
+          
+          git add gfwlist_iso.pac
+          git commit -m "[$(LANG=C date)] auto update" || exit 0
+          
+          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
+          
+          git push origin dev
