@@ -36,7 +36,7 @@ jobs:
 
       - name: update
         run: |
-          genpac --proxy "SOCKS5://127.0.0.1" -o gfwlist_ios.pac
+          genpac --proxy "SOCKS5 ubuntu:1088; SOCKS ubuntu:1088; DIRECT;" -o gfwlist_ios.pac
           
           git add -f gfwlist_ios.pac
           git commit -m "[$(LANG=C date)] auto update" || exit 0
