@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/22/2023, 7:38:02 PM
- * GFWList Last-Modified: Fri, 19 May 2023 23:42:18 -0400
+ * Generated: 7/23/2023, 7:37:57 PM
+ * GFWList Last-Modified: Sun, 23 Jul 2023 13:13:01 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -365,6 +365,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wowhead\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vod\\.wwe\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xfinity\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xiaomi\\.eu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youwin\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ytn\\.co\\.kr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zattoo\\.com",
@@ -1914,6 +1915,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?greenfieldbookstore\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?greenpeace\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?greenvpn\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?grindr\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?grotty-monday\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gsearch\\.media",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gtricks\\.com",
@@ -2124,7 +2126,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ilove80\\.be",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?im\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?im88\\.tw",
-            "^http://imgchili\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgchili\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagefap\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imageflea\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagevenue\\.com",
@@ -2132,6 +2134,7 @@ var rules = [
             "^http://imb\\.org",
             "^http://www\\.imdb\\.com/name/nm0482730",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?img\\.ly",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgasd\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgur\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imkev\\.com",
             "^http://tech2\\.in\\.com/video/",
@@ -5441,7 +5444,6 @@ var rules = [
             "*.igotmail.com.tw*",
             "*.ihao.org/dz5*",
             "*.ikstar.com*",
-            "*.imgchili.net*",
             "*.imageab.com*",
             "*.imagefap.com*",
             "*imageshack.us*",
