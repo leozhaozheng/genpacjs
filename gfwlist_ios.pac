@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 9/8/2023, 7:37:58 PM
- * GFWList Last-Modified: Sun, 23 Jul 2023 13:13:01 -0400
+ * Generated: 9/9/2023, 7:38:07 PM
+ * GFWList Last-Modified: Sat, 09 Sep 2023 00:06:49 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1887,6 +1887,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gnews\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?goagent\\.biz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?goagentplus\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?godaddy\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?godfootsteps\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gofundme\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gohappy\\.com\\.tw",
