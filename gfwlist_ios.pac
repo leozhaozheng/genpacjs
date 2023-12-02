@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 12/1/2023, 7:38:07 PM
- * GFWList Last-Modified: Sun, 17 Sep 2023 12:59:35 -0400
+ * Generated: 12/2/2023, 7:37:54 PM
+ * GFWList Last-Modified: Sat, 02 Dec 2023 01:34:49 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1157,6 +1157,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?b-ok\\.cc",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?babylonbee\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?backchina\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bad\\.news",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?badiucao\\.com",
             "^http://.*2\\.bahamut\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?baidu\\.jp",
@@ -2147,6 +2148,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?indiemerch\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?info-graf\\.fr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?initiativesforchina\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inkbunny\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inkui\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inmediahk\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inmediahk\\.net",
@@ -2400,7 +2402,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mathiew-badimon\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matrix\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matsushimakaede\\.com",
-            "^http://maturejp\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matters\\.town",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?maturejp\\.com",
             "^http://mcaf\\.ee",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mcadforums\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?md-t\\.org",
