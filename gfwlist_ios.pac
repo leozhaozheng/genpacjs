@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 12/29/2023, 7:38:25 PM
- * GFWList Last-Modified: Fri, 29 Dec 2023 12:08:31 -0500
+ * Generated: 12/30/2023, 7:38:21 PM
+ * GFWList Last-Modified: Sat, 30 Dec 2023 12:31:14 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -848,11 +848,19 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nytstyle\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?steamcommunity\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?store\\.steampowered\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cdn-telegram\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?comments\\.app",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?graph\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?quiz\\.directory",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?t\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?updates\\.tdesktop\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegram\\.dog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegram\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegram\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegram\\.space",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegram-cdn\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegramdownload\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegra\\.ph",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telesco\\.pe",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?jtvnw\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ttvnw\\.net",
@@ -1303,6 +1311,7 @@ var rules = [
             "^http://cacnw\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cactusvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?caijinglengyan\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?calendarz\\.com",
             "^http://blog\\.calibre-ebook\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?camfrog\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?campaignforuyghurs\\.org",
@@ -1846,6 +1855,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?geekheart\\.info",
             "^http://gekikame\\.com",
             "^http://gelbooru\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?generated\\.photos",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?genius\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?geph\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getastrill\\.com",
@@ -2076,6 +2086,9 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huaren\\.us",
             "^http://huashangnews\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huayuworld\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huffingtonpost\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huffpost\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huggingface\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hugoroy\\.eu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huhaitai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huhamhire\\.com",
@@ -3181,7 +3194,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?teck\\.in",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tehrantimes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegraph\\.co\\.uk",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegra\\.ph",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tenzinpalmo\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tew\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tfiflve\\.com",
@@ -3563,6 +3575,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wattpad\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?watchmygf\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wav\\.tv",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wd\\.bible",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wealth\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wearn\\.com",
             "^http://hkcoc\\.weather\\.com\\.hk",
@@ -4094,7 +4107,6 @@ var rules = [
             "*userapi.nytlog.com*",
             "*cn.nytstyle.com*",
             "*.steamcommunity.com*",
-            "*.telegramdownload.com*",
             "*.pscp.tv*",
             "*.t.co*",
             "*.tweetdeck.com*",
@@ -5407,7 +5419,6 @@ var rules = [
             "*huaxia-news.com*",
             "*huaxiabao.org*",
             "*huaxin.ph*",
-            "*.huffingtonpost.com/rebiya-kadeer*",
             "*.huhangfei.com*",
             "*huiyi.in*",
             "*.hulkshare.com*",
