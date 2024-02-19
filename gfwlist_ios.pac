@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/18/2024, 7:38:03 PM
- * GFWList Last-Modified: Sat, 30 Dec 2023 12:31:14 -0500
+ * Generated: 2/19/2024, 7:37:57 PM
+ * GFWList Last-Modified: Mon, 19 Feb 2024 10:27:32 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2093,6 +2093,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huhaitai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huhamhire\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?huhangfei\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?humanparty\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?humanrightspressawards\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hung-ya\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hungerstrikeforaids\\.org",
@@ -3194,6 +3195,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?teck\\.in",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tehrantimes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?telegraph\\.co\\.uk",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tenor\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tenzinpalmo\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tew\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tfiflve\\.com",
