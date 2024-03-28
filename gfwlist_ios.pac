@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/27/2024, 7:38:03 PM
- * GFWList Last-Modified: Mon, 19 Feb 2024 10:27:32 -0500
+ * Generated: 3/28/2024, 7:37:55 PM
+ * GFWList Last-Modified: Thu, 28 Mar 2024 14:51:38 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -163,11 +163,13 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?casinobellini\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?centauro\\.com\\.br",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chobit\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ciciai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clearsurance\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?images\\.comico\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?static\\.comico\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?counter\\.social",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?costco\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?coze\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?crossfire\\.co\\.kr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?crunchyroll\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?d2pass\\.com",
@@ -1124,6 +1126,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.fo",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.is",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.li",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.md",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archive\\.ph",
             "^https://archive\\.today",
@@ -1307,6 +1310,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?c-span\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?c-spanvideo\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?c-est-simple\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cableav\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cablegatesearch\\.net",
             "^http://cacnw\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cactusvpn\\.com",
@@ -1629,6 +1633,7 @@ var rules = [
             "^http://www\\.eastturkistan\\.net/",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eastturkistangovernmentinexile\\.us",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fnc\\.ebc\\.net\\.tw",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?news\\.ebc\\.net\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ecfa\\.org\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ecimg\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?edgecastcdn\\.net",
@@ -1683,7 +1688,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eu\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eurekavpt\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?euronews\\.com",
-            "^http://evschool\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?apps\\.evozi\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?evschool\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?exblog\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blog\\.exblog\\.co\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?exchristian\\.hk",
@@ -4962,7 +4968,6 @@ var rules = [
             "*.euronews.com*",
             "*eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh*",
             "*eeas.europa.eu/statements-eeas/2015/151022*",
-            "*.evschool.net*",
             "*.exchristian.hk*",
             "*.expecthim.com*",
             "*experts-univers.com*",
