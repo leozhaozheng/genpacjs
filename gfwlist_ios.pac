@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/12/2024, 7:37:51 PM
- * GFWList Last-Modified: Thu, 18 Apr 2024 11:17:15 -0400
+ * Generated: 5/13/2024, 7:37:52 PM
+ * GFWList Last-Modified: Sun, 12 May 2024 23:19:25 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1372,6 +1372,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?changp\\.com",
             "^http://changsa\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?channelnewsasia\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chatgpt\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chaturbate\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?checkgfw\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chenguangcheng\\.com",
