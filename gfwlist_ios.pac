@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/29/2024, 7:37:39 PM
- * GFWList Last-Modified: Sun, 12 May 2024 23:19:25 -0400
+ * Generated: 5/30/2024, 7:37:44 PM
+ * GFWList Last-Modified: Thu, 30 May 2024 01:40:24 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -879,6 +879,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?twitter\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?twitter\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vine\\.co",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?x\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gov\\.taipei",
             "^https://aiss\\.anws\\.gov\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archives\\.gov\\.tw",
