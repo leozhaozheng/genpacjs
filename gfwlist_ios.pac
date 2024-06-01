@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/31/2024, 7:38:29 PM
- * GFWList Last-Modified: Thu, 30 May 2024 01:40:24 -0400
+ * Generated: 6/1/2024, 7:37:48 PM
+ * GFWList Last-Modified: Sat, 01 Jun 2024 11:27:48 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2859,6 +2859,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pximg\\.net",
             "^http://python\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qanote\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qbittorrent\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qgirl\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qianbai\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qiandao\\.today",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qiangwaikan\\.com",
@@ -6248,7 +6250,6 @@ var rules = [
             "*pythonhackers.com/p*",
             "*ss.pythonic.life/*",
             "*.qanote.com*",
-            "*.qgirl.com.tw*",
             "*.qi-gong.me*",
             "*.qidian.ca*",
             "*.qienkuen.org*",
