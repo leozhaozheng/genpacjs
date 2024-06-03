@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/2/2024, 7:37:45 PM
- * GFWList Last-Modified: Sun, 02 Jun 2024 11:11:56 -0400
+ * Generated: 6/3/2024, 7:38:07 PM
+ * GFWList Last-Modified: Mon, 03 Jun 2024 13:32:45 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -972,6 +972,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?12vpn\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?1337x\\.to",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?141jj\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?1688\\.com\\.au",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?173ng\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?18board\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?18board\\.info",
@@ -2379,7 +2380,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?listentoyoutube\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liudejun\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liujianshu\\.com",
-            "^http://liuxiaobo\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liuxiaobo\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liuxiaotong\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liveleak\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?livemint\\.com",
@@ -2387,6 +2388,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?livingonline\\.us",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?livingstream\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?livevideo\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chat\\.lmsys\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lncn\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?localdomain\\.ws",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lockestek\\.com",
@@ -2879,9 +2881,10 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?quitccp\\.org",
             "^http://quran\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?r0\\.ru",
-            "^http://ra\\.gg/",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radio-canada\\.ca",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rael\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radio\\.garden",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radioaustralia\\.net\\.au",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radiohilight\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radioline\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?radiovaticana\\.org",
@@ -3185,6 +3188,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tagwalk\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taipeisociety\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taipeitimes\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taisounds\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taiwandaily\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taiwanhot\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taiwanncf\\.org\\.tw",
@@ -3606,6 +3610,7 @@ var rules = [
             "^http://webwarper\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wechatlawsuit\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wefightcensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?weijingsheng\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?weiming\\.info",
             "^http://weisuo\\.ws",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?welt\\.de",
@@ -4175,7 +4180,6 @@ var rules = [
             "*.138.com*",
             "*141hongkong.com/forum*",
             "*.141tube.com*",
-            "*.1688.com.au*",
             "*.173ng.com*",
             "*.177pic.info*",
             "*.17t17p.com*",
@@ -5727,13 +5731,11 @@ var rules = [
             "*liuxiaotong.com*",
             "*.livedoor.jp*",
             "*.liveleak.com*",
-            "*.livestation.com*",
             "*livestream.com*",
             "*.livevideo.com*",
             "*.liwangyang.com*",
             "*lizhizhuangbi.com*",
             "*lkcn.net*",
-            "*.llss.me/*",
             "*.load.to*",
             "*.lobsangwangyal.com*",
             "*.localdomain.ws*",
@@ -6271,10 +6273,7 @@ var rules = [
             "*.qvodzy.org*",
             "*nemesis2.qx.net/pages/MyEnTunnel*",
             "*qxbbs.org*",
-            "*.ra.gg*",
-            "*.radicalparty.org*",
             "*radicalparty.org*",
-            "*radioaustralia.net.au*",
             "*.radiohilight.net*",
             "*opml.radiotime.com*",
             "*.raidtalk.com.tw*",
@@ -7097,7 +7096,6 @@ var rules = [
             "*.wefong.com*",
             "*weiboleak.com*",
             "*.weihuo.org*",
-            "*weijingsheng.org*",
             "*.weiming.info*",
             "*weiquanwang.org*",
             "*.welovecock.com*",
