@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/6/2024, 7:38:49 PM
- * GFWList Last-Modified: Wed, 05 Jun 2024 12:48:37 -0400
+ * Generated: 6/7/2024, 7:37:43 PM
+ * GFWList Last-Modified: Thu, 06 Jun 2024 23:48:34 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -91,7 +91,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?myvlog\\.im\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?music\\.jwmusic\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.kodingen\\.com",
-            "^https://www\\.lightnovel\\.cn",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?openwrt\\.org\\.cn",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?simplecd\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?static\\.soup\\.io",
@@ -2365,7 +2364,11 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liangyou\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liaowangxizang\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?liberal\\.org\\.hk",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?libertysculpturepark\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?libertytimes\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?libredd\\.it",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lighten\\.org\\.tw",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lightnovel\\.cn",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?line\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?line-apps\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lingvodics\\.com",
@@ -3695,6 +3698,7 @@ var rules = [
             "^http://woyaolian\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wpoforum\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wqyd\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?writesonic\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wsj\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wsj\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wufafangwen\\.com",
@@ -5711,10 +5715,7 @@ var rules = [
             "*.liangyou.net*",
             "*.lianyue.net*",
             "*.liaowangxizang.net*",
-            "*.libertytimes.com.tw*",
             "*blogs.libraryinformationtechnology.com/jxyz*",
-            "*.lighten.org.tw*",
-            "*.lightnovel.cn*",
             "*limiao.net*",
             "*linkuswell.com*",
             "*abitno.linpie.com/use-ipv6-to-fuck-gfw*",
