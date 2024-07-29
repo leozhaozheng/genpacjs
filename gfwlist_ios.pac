@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/28/2024, 7:38:12 PM
- * GFWList Last-Modified: Sat, 20 Jul 2024 13:42:41 -0400
+ * Generated: 7/29/2024, 7:38:46 PM
+ * GFWList Last-Modified: Sun, 28 Jul 2024 20:49:46 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1175,6 +1175,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?avoision\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axios\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?b-ok\\.cc",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?babylonbee\\.com",
@@ -1448,6 +1449,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cloudflare-ipfs\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?club1069\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clubhouseapi\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cmegroup\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cmi\\.org\\.tw",
             "^http://www\\.cmoinc\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cmule\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cmule\\.org",
@@ -2163,6 +2166,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgchili\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagefap\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imageflea\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imageglass\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imageshack\\.us",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagevenue\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagezilla\\.net",
             "^http://imb\\.org",
@@ -4728,7 +4733,6 @@ var rules = [
             "*clearwisdom.net*",
             "*.clipfish.de*",
             "*cloakpoint.com*",
-            "*cmi.org.tw*",
             "*cmp.hku.hk*",
             "*hkupop.hku.hk*",
             "*.cn6.eu*",
@@ -5500,7 +5504,6 @@ var rules = [
             "*.ikstar.com*",
             "*.imageab.com*",
             "*.imagefap.com*",
-            "*imageshack.us*",
             "*.imb.org*",
             "*.imdb.com/title/tt0819354*",
             "*.imdb.com/title/tt1540068*",
