@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/3/2024, 7:37:42 PM
- * GFWList Last-Modified: Sun, 28 Jul 2024 20:49:46 -0400
+ * Generated: 8/4/2024, 7:37:54 PM
+ * GFWList Last-Modified: Sat, 03 Aug 2024 21:26:19 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2204,6 +2204,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?internetpopculture\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inthenameofconfuciusmovie\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inxian\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ipfire\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iphone4hongkong\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iphonehacks\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iphonetaiwan\\.org",
@@ -2236,6 +2237,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iuhrdf\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ivacy\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ivpn\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iwara\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ixquick\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iyouport\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iyouport\\.org",
@@ -3308,11 +3310,12 @@ var rules = [
             "^http://tibetoffice\\.ch",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetoffice\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetonline\\.com",
-            "^http://tibetoffice\\.com\\.au",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetoffice\\.com\\.au",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetonline\\.tv",
-            "^http://tibetoralhistory\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetoralhistory\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetsociety\\.com",
-            "^http://tibetsupportgroup\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetsupportgroup\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibettruth\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tibetwrites\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tigervpn\\.com",
             "^http://timdir\\.com",
@@ -5526,7 +5529,6 @@ var rules = [
             "*.inthenameofconfuciusmovie.com*",
             "*inxian.com*",
             "*ipalter.com*",
-            "*.ipfire.org*",
             "*.ipjetable.net*",
             "*.ipobar.com/read.php?*",
             "*ipoock.com/img*",
