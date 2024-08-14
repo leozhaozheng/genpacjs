@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/13/2024, 7:37:40 PM
- * GFWList Last-Modified: Sat, 03 Aug 2024 21:26:19 -0400
+ * Generated: 8/14/2024, 7:38:20 PM
+ * GFWList Last-Modified: Wed, 14 Aug 2024 15:07:05 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3164,6 +3164,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storm\\.mg",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?stoptibetcrisis\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storify\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storj\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?stoweboyd\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?straitstimes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?straplessdildo\\.com",
@@ -3510,6 +3511,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?usacn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?usaip\\.eu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uscnpm\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uscardforum\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?usma\\.edu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ustibetcommittee\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ustream\\.tv",
@@ -6980,7 +6982,6 @@ var rules = [
             "*myshare.url.com.tw/*",
             "*us.to*",
             "*.usaip.eu*",
-            "*dalailama.usc.edu*",
             "*.usocctn.com*",
             "*.ustream.tv*",
             "*usus.cc*",
