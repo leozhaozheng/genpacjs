@@ -1,6 +1,6 @@
 /**
  * genpac 1.3.0
- * Generated: 9/3/2024, 7:38:55 PM
+ * Generated: 9/4/2024, 7:38:17 PM
  * GFWList Last-Modified: Mon, 02 Sep 2024 11:03:48 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
