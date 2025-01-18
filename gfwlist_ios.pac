@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/17/2025, 7:39:23 PM
- * GFWList Last-Modified: Sun, 12 Jan 2025 11:56:36 -0500
+ * Generated: 1/18/2025, 7:39:20 PM
+ * GFWList Last-Modified: Sat, 18 Jan 2025 09:37:56 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -312,6 +312,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?phmsociety\\.org",
             "^http://.*\\.pimg\\.tw/",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?podcast\\.co",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?popai\\.pro",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pure18\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pytorch\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qq\\.co\\.za",
@@ -853,6 +854,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yt\\.be",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ytimg\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zynamics\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?copilot\\.microsoft\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?naughtyamerica\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nyt\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nytcn\\.me",
@@ -1045,6 +1047,7 @@ var rules = [
             "^http://aamacau\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?abc\\.net\\.au",
             "^https://www\\.abclite\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?abebooks\\.co\\.uk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aboluowang\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?about\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?acast\\.com",
@@ -1240,7 +1243,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bfnn\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bfsh\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bgvpn\\.com",
-            "^http://biblesforamerica\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?biblesforamerica\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vpl\\.bibliocommons\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?biedian\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bigjapanesesex\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bignews\\.org",
@@ -1360,6 +1364,7 @@ var rules = [
             "^http://casatibet\\.org\\.mx",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cari\\.com\\.my",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?caribbeancom\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?carousell\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?catch22\\.net",
             "^http://catchgod\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?catfightpayperview\\.xxx",
@@ -1402,6 +1407,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?changp\\.com",
             "^http://changsa\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?channelnewsasia\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chanworld\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chatgpt\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chaturbate\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?checkgfw\\.com",
@@ -1568,6 +1574,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?daliulian\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?danke4china\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?darrenliuwei\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dashlane\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dastrassi\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?daum\\.net",
             "^http://david-kilgour\\.com",
@@ -1721,7 +1728,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eromangadouzin\\.com",
             "^http://eromon\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eslite\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?esu\\.dog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?etizer\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?etokki\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?etsy\\.com",
@@ -3035,6 +3041,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cn\\.sandscotaicentral\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sankakucomplex\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sankei\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sanmin\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?savethesounds\\.info",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?savetibet\\.de",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?savetibet\\.org",
@@ -4516,7 +4523,6 @@ var rules = [
             "*.bianlei.com*",
             "*biantailajiao.com*",
             "*biantailajiao.in*",
-            "*.biblesforamerica.org*",
             "*.bic2011.org*",
             "*bigfools.com*",
             "*.bignews.org*",
@@ -4888,7 +4894,6 @@ var rules = [
             "*darktoy.net*",
             "*.david-kilgour.com*",
             "*daxa.cn*",
-            "*cn.dayabook.com*",
             "*.daylife.com/topic/dalai_lama*",
             "*dcmilitary.com*",
             "*.ddhw.info*",
@@ -5035,7 +5040,6 @@ var rules = [
             "*.eroprofile.com*",
             "*.eroticsaloon.net*",
             "*.eslite.com*",
-            "*wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95*",
             "*.etaa.org.au*",
             "*.etadult.com*",
             "*etaiwannews.com*",
@@ -6389,7 +6393,6 @@ var rules = [
             "*.salvation.org.hk*",
             "*.samair.ru/proxy/type-01*",
             "*.sambhota.org*",
-            "*.sanmin.com.tw*",
             "*sapikachu.net*",
             "*savemedia.com*",
             "*.savetibet.de*",
