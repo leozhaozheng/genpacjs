@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/17/2025, 7:38:53 PM
- * GFWList Last-Modified: Thu, 06 Feb 2025 23:07:23 -0500
+ * Generated: 2/18/2025, 7:39:19 PM
+ * GFWList Last-Modified: Tue, 18 Feb 2025 01:24:21 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1045,6 +1045,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?51jav\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?51luoben\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?5278\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?611study\\.icu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?63i\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?6do\\.news",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?6do\\.world",
@@ -2725,6 +2726,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newchen\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newhighlandvision\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newmitbbs\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?news1\\.kr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newscn\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newsancai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?newsblur\\.com",
@@ -2897,6 +2899,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?phuquocservices\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?picacomiccn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?img.*\\.picturedip\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?picuki\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pigav\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pin-cong\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pin6\\.com",
@@ -6694,7 +6697,6 @@ var rules = [
             "*tw.streetvoice.com*",
             "*.strikingly.com*",
             "*.strongwindpress.com*",
-            "*.student.tw/db*",
             "*stupidvideos.com*",
             "*.successfn.com*",
             "*panamapapers.sueddeutsche.de*",
