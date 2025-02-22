@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/21/2025, 7:38:35 PM
- * GFWList Last-Modified: Tue, 18 Feb 2025 01:24:21 -0500
+ * Generated: 2/22/2025, 7:38:44 PM
+ * GFWList Last-Modified: Sat, 22 Feb 2025 11:48:53 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -220,6 +220,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wego\\.here\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gamer-cds\\.cdn\\.hinet\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gamer2-cds\\.cdn\\.hinet\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?grok\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hmoegirl\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hmvdigital\\.ca",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hmvdigital\\.com",
@@ -1547,6 +1548,7 @@ var rules = [
             "^http://goagent\\.codeplex\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?codeshare\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?codeskulptor\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cofacts\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?conoha\\.jp",
             "^http://tosh\\.comedycentral\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?comefromchina\\.com",
