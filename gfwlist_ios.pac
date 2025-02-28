@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/27/2025, 7:38:53 PM
- * GFWList Last-Modified: Sat, 22 Feb 2025 11:48:53 -0500
+ * Generated: 2/28/2025, 7:39:05 PM
+ * GFWList Last-Modified: Thu, 27 Feb 2025 22:29:48 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1358,6 +1358,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?brookings\\.edu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?brutaltgp\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bsky\\.app",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bsky\\.network",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bsky\\.social",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bt95\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?btdig\\.com",
