@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/9/2025, 7:38:02 PM
- * GFWList Last-Modified: Sat, 08 Mar 2025 11:02:43 +0800
+ * Generated: 3/10/2025, 7:39:22 PM
+ * GFWList Last-Modified: Mon, 10 Mar 2025 21:59:17 +0800
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -323,7 +323,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?omni7\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?onapp\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ontrac\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?openai\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chat\\.openai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pandora\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?parkansky\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?phmsociety\\.org",
@@ -348,7 +348,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sm-miracle\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?softnology\\.biz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?soylentnews\\.org",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?spotify\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?open\\.spotify\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?spreadshirt\\.es",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?springboardplatform\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sprite\\.org",
