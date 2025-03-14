@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/13/2025, 7:39:22 PM
- * GFWList Last-Modified: Thu, 13 Mar 2025 19:15:09 +0800
+ * Generated: 3/14/2025, 7:40:02 PM
+ * GFWList Last-Modified: Fri, 14 Mar 2025 17:50:30 +0800
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1906,7 +1906,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?freess\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fril\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?free\\.com\\.tw",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fastgpt\\.run",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?froth\\.zone",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fanbox\\.cc",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?free\\.bg",
