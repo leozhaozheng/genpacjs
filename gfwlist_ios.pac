@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/15/2025, 7:38:19 PM
- * GFWList Last-Modified: Fri, 14 Mar 2025 17:50:30 +0800
+ * Generated: 3/16/2025, 7:38:30 PM
+ * GFWList Last-Modified: Sun, 16 Mar 2025 13:09:18 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -20,6 +20,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cn\\.noxinfluencer\\.com",
             "^http://blog\\.ontrac\\.com",
             "^http://store\\.sprite\\.org",
+            "/(?:[^\\w\\-.%\\u0080-\\uFFFF]|$)https?:\\\\/\\\\/\\(?=\\..*?\\(2x3\\|ni5\\|j5o\\)\\)\\[a-z0-9\\.-\\]\\+\\\\\\.xn--ngstr-lra8j\\\\\\.com\\$",
             "^http://xx\\.wwwhost\\.biz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?v6\\.facebook\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ip6\\.static\\.sl-reverse\\.com",
@@ -428,6 +429,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--oiq\\.cc",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--p8j9a0d9c9a\\.xn--q9jyb4c",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--9pr62r24a\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--ngstr-lra8j\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?abebooks\\.com",
             "^https://.*\\.s3\\.amazonaws\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?s3-ap-southeast-1\\.amazonaws\\.com",
@@ -1127,6 +1129,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9news\\.com\\.au",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aomedia\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aljazeera\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?akinator\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.org",
@@ -3140,11 +3143,12 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?powerapple\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?abc\\.pp\\.ru",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?prayforchina\\.net",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?premeforwindows7\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?prcleader\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?presentationzen\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?prestige-av\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pritunl\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?privacybox\\.de",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?private\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?privateinternetaccess\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?privatepaste\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?privatetunnel\\.com",
@@ -6545,7 +6549,6 @@ var rules = [
             "*powerapple.com*",
             "*heix.pp.ru*",
             "*.prisoneralert.com*",
-            "*.private.com/home*",
             "*privatepaste.com*",
             "*privatetunnel.com*",
             "*provideocoalition.com*",
