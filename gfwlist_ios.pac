@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/23/2025, 7:41:22 PM
- * GFWList Last-Modified: Tue, 20 May 2025 11:14:44 +0000
+ * Generated: 5/24/2025, 7:39:18 PM
+ * GFWList Last-Modified: Sat, 24 May 2025 02:43:20 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -549,6 +549,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?redd\\.it",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?redditspace\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?reddit\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?reddithelp\\.com",
             "^http://redditlist\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?redditmedia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?redditstatic\\.com",
@@ -2872,7 +2873,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nikke-kr\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nikke-jp\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nikke-en\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nodeloc\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.nodeloc\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?netlify\\.app",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nightswatch\\.top",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nbyy\\.tv",
