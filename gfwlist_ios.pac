@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/30/2025, 7:39:28 PM
- * GFWList Last-Modified: Thu, 29 May 2025 11:02:04 +0000
+ * Generated: 5/31/2025, 7:39:30 PM
+ * GFWList Last-Modified: Sat, 31 May 2025 00:49:37 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1299,6 +1299,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blackmagicdesign\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bearteach\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?btbtt\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?btbtt\\.co",
