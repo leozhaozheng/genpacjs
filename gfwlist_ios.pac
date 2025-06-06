@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/5/2025, 7:38:23 PM
- * GFWList Last-Modified: Thu, 05 Jun 2025 13:19:31 +0000
+ * Generated: 6/6/2025, 7:39:34 PM
+ * GFWList Last-Modified: Fri, 06 Jun 2025 11:15:55 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1063,6 +1063,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?duckduckgo-owned-server\\.yahoo\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?91dasai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i\\.111666\\.best",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?1lib\\.sk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?2047\\.one",
