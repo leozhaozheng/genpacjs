@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/14/2025, 7:39:39 PM
- * GFWList Last-Modified: Fri, 13 Jun 2025 15:18:43 +0000
+ * Generated: 6/15/2025, 7:39:51 PM
+ * GFWList Last-Modified: Sun, 15 Jun 2025 02:04:31 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1939,6 +1939,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?futuremessage\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fw\\.cm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fxcm-chinese\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gitlab\\.net",
             "^http://gmp4\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getsession\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gdaily\\.org",
@@ -2069,6 +2070,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gumroad\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gunsamerica\\.com",
             "^http://gvlib\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hinet\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hindustantimes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hanime1\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?halktv\\.com\\.tr",
