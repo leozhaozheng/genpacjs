@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/19/2025, 7:40:11 PM
- * GFWList Last-Modified: Thu, 19 Jun 2025 11:48:54 +0000
+ * Generated: 6/20/2025, 7:40:24 PM
+ * GFWList Last-Modified: Fri, 20 Jun 2025 14:29:33 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1085,6 +1085,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9news\\.com\\.au",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?amuletmc\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?abplive\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cdn\\.arstechnica\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aomedia\\.org",
