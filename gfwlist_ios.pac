@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/27/2025, 7:39:52 PM
- * GFWList Last-Modified: Thu, 26 Jun 2025 13:24:53 +0000
+ * Generated: 6/28/2025, 7:39:59 PM
+ * GFWList Last-Modified: Sat, 28 Jun 2025 11:01:38 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -105,6 +105,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chinaso\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chinaz\\.com",
             "^http://nrch\\.culture\\.tw/",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i\\.pki\\.goog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?adservice\\.google\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dl\\.google\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tools\\.google\\.com",
@@ -2816,6 +2817,7 @@ var rules = [
             "^http://www\\.oxid\\.it",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ow\\.ly",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ozvoice\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?img\\.picgo\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pornmate\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?puredns\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?polymarket\\.com",
