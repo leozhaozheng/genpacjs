@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/24/2025, 7:42:50 PM
- * GFWList Last-Modified: Mon, 14 Jul 2025 09:55:03 +0000
+ * Generated: 7/25/2025, 7:42:05 PM
+ * GFWList Last-Modified: Fri, 25 Jul 2025 14:01:51 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3899,6 +3899,7 @@ var rules = [
             "^http://xxx\\.xxx",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xxxx\\.com\\.au",
             "^http://xxxymovies\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yangzhi\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storage\\.yandex\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?y2mate\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yadi\\.sk",
