@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/19/2025, 7:40:48 PM
- * GFWList Last-Modified: Mon, 18 Aug 2025 13:50:12 +0000
+ * Generated: 8/20/2025, 7:42:15 PM
+ * GFWList Last-Modified: Wed, 20 Aug 2025 15:24:34 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -111,7 +111,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tools\\.google\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clientservices\\.googleapis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fonts\\.googleapis\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storage\\.googleapis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?update\\.googleapis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?safebrowsing\\.googleapis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?connectivitycheck\\.gstatic\\.com",
@@ -3614,6 +3613,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blog\\.expofutures\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?contests\\.twilio\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?typora\\.io",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?udomain\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?upbit\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?demo\\.unlock-music\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?u9un\\.com",
