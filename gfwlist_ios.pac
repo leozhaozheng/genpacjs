@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/22/2025, 7:40:54 PM
- * GFWList Last-Modified: Fri, 22 Aug 2025 02:53:57 +0000
+ * Generated: 8/23/2025, 7:39:58 PM
+ * GFWList Last-Modified: Sat, 23 Aug 2025 08:36:20 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1821,6 +1821,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?expressvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eyevio\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eyny\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fuckccp\\.xyz",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fuckccp\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?furrybar\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?forbes\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?financialexpress\\.com",
