@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/25/2025, 7:40:47 PM
- * GFWList Last-Modified: Sat, 23 Aug 2025 08:36:20 +0000
+ * Generated: 8/26/2025, 7:40:06 PM
+ * GFWList Last-Modified: Tue, 26 Aug 2025 13:32:31 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -941,6 +941,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?twitter\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vine\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?x\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?moj\\.gov\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gov\\.taipei",
             "^https://aiss\\.anws\\.gov\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?archives\\.gov\\.tw",
@@ -1821,6 +1822,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?expressvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eyevio\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?eyny\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?feedly\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fuckccp\\.xyz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fuckccp\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?furrybar\\.com",
