@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 9/4/2025, 7:40:21 PM
- * GFWList Last-Modified: Sat, 30 Aug 2025 08:38:06 +0000
+ * Generated: 9/5/2025, 7:39:28 PM
+ * GFWList Last-Modified: Fri, 05 Sep 2025 14:33:31 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1244,6 +1244,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bt4gprx\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bt4g\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?betterhash\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?binance\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bitget\\.com",
@@ -3335,6 +3337,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sydneytoday\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sylfoundation\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?syncback\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tanks\\.gg",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?thehansindia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rtm\\.tnt-ea\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tellapart\\.com",
