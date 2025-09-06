@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 9/5/2025, 7:39:28 PM
- * GFWList Last-Modified: Fri, 05 Sep 2025 14:33:31 +0000
+ * Generated: 9/6/2025, 7:40:37 PM
+ * GFWList Last-Modified: Sat, 06 Sep 2025 01:15:50 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -90,6 +90,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?download\\.syniumsoftware\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?haygo\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hiwifi\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?.*\\.ipify\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?music\\.jwmusic\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.kodingen\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?openwrt\\.org\\.cn",
@@ -2235,6 +2236,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hyperrate\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hypothes\\.is",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ebook\\.hyread\\.com\\.tw",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ipify\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?itiger\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?itch\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?infura\\.io",
