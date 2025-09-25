@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 9/24/2025, 7:40:03 PM
- * GFWList Last-Modified: Wed, 24 Sep 2025 01:26:08 +0000
+ * Generated: 9/25/2025, 7:39:38 PM
+ * GFWList Last-Modified: Thu, 25 Sep 2025 03:27:54 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3773,6 +3773,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vrporn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vtunnel\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vuku\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikipedia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wxw\\.moe",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wxw\\.cat",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?walletconnect\\.com",
