@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/2/2025, 7:39:28 PM
- * GFWList Last-Modified: Thu, 02 Oct 2025 08:16:45 +0000
+ * Generated: 10/3/2025, 7:39:25 PM
+ * GFWList Last-Modified: Fri, 03 Oct 2025 08:02:40 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1021,6 +1021,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yahoo\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?996\\.icu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ipfs\\.4everland\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?91dasai\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i\\.111666\\.best",
