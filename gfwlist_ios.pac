@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/3/2025, 7:39:25 PM
- * GFWList Last-Modified: Fri, 03 Oct 2025 08:02:40 +0000
+ * Generated: 10/4/2025, 7:40:27 PM
+ * GFWList Last-Modified: Sat, 04 Oct 2025 13:07:36 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2576,6 +2576,7 @@ var rules = [
             "^http://blog\\.martinoei\\.com",
             "^http://martsangkagyuofficial\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?marxist\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?marxists\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matainja\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matrix\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?matters\\.town",
@@ -5668,7 +5669,6 @@ var rules = [
             "*.martsangkagyuofficial.org*",
             "*maruta.be/forget*",
             "*.marxist.com*",
-            "*.marxists.org/chinese*",
             "*mayimayi.com*",
             "*.maxing.jp*",
             "*.mcaf.ee*",
