@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/6/2025, 7:41:12 PM
- * GFWList Last-Modified: Mon, 06 Oct 2025 15:36:12 +0000
+ * Generated: 10/7/2025, 7:39:45 PM
+ * GFWList Last-Modified: Tue, 07 Oct 2025 08:08:01 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3119,6 +3119,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.org",
             "^http://rxhj\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?solscan\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sina\\.com\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?swapspace\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storry\\.tv",
