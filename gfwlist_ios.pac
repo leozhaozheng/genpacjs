@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 11/19/2025, 7:40:27 PM
- * GFWList Last-Modified: Wed, 19 Nov 2025 14:42:44 +0000
+ * Generated: 11/20/2025, 7:39:47 PM
+ * GFWList Last-Modified: Thu, 20 Nov 2025 05:56:59 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1987,6 +1987,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?futuremessage\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fw\\.cm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fxcm-chinese\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?greatfirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?garudalinux\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?about\\.gitlab\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gitlab\\.net",
@@ -3815,6 +3816,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vrporn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vtunnel\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vuku\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikiunblocked\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?websdr\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikipedia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wxw\\.moe",
