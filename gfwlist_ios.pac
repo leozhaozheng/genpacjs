@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 11/20/2025, 7:39:47 PM
- * GFWList Last-Modified: Thu, 20 Nov 2025 05:56:59 +0000
+ * Generated: 11/21/2025, 7:39:54 PM
+ * GFWList Last-Modified: Fri, 21 Nov 2025 13:26:14 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5686,7 +5686,6 @@ var rules = [
             "*lvhai.org*",
             "*.lyfhk.net*",
             "*.lzmtnews.org*",
-            "*http://*.m-team.cc*",
             "*.macrovpn.com*",
             "*mahabodhi.org*",
             "*my.mail.ru*",
