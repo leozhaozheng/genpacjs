@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 12/18/2025, 7:40:12 PM
- * GFWList Last-Modified: Wed, 17 Dec 2025 08:56:03 +0000
+ * Generated: 12/19/2025, 7:40:29 PM
+ * GFWList Last-Modified: Fri, 19 Dec 2025 11:28:02 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2885,6 +2885,7 @@ var rules = [
             "^http://www\\.oxid\\.it",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ow\\.ly",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ozvoice\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?partnerstack\\.xyz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?podwise\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?picsart\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?images\\.prismic\\.io",
