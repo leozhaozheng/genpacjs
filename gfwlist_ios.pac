@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 12/25/2025, 7:40:14 PM
- * GFWList Last-Modified: Wed, 24 Dec 2025 08:18:43 +0000
+ * Generated: 12/26/2025, 7:40:55 PM
+ * GFWList Last-Modified: Fri, 26 Dec 2025 07:03:42 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -775,7 +775,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chromecast\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chromeexperiments\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chromestatus\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chromium\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cloudfunctions\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?crbug\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?creativelab5\\.com",
@@ -2486,6 +2485,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kxsw\\.life",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kzaobao\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kzeng\\.info",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lovart\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?library-access\\.sk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?linux\\.do",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lmarena\\.ai",
