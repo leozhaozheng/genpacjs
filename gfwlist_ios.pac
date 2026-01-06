@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/5/2026, 7:42:34 PM
- * GFWList Last-Modified: Mon, 05 Jan 2026 14:19:15 +0000
+ * Generated: 1/6/2026, 7:42:42 PM
+ * GFWList Last-Modified: Tue, 06 Jan 2026 08:26:49 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -737,7 +737,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hongkong\\.fandom\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ftchinese\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ai\\.studio",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?issues\\.chromium\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chromium\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?goog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gle",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?google",
