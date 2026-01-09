@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/8/2026, 7:41:40 PM
- * GFWList Last-Modified: Tue, 06 Jan 2026 08:26:49 +0000
+ * Generated: 1/9/2026, 7:42:19 PM
+ * GFWList Last-Modified: Fri, 09 Jan 2026 09:21:08 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1983,7 +1983,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gfwbao\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?greatfirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?garudalinux\\.org",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?about\\.gitlab\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gitlab\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gitlab\\.net",
             "^http://gmp4\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?getsession\\.org",
