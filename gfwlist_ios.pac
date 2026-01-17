@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/16/2026, 7:39:39 PM
- * GFWList Last-Modified: Fri, 09 Jan 2026 09:18:34 +0000
+ * Generated: 1/17/2026, 7:40:24 PM
+ * GFWList Last-Modified: Sat, 17 Jan 2026 09:28:54 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1104,6 +1104,9 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aljazeera\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?akinator\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.in",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.li",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.pm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?av01\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?acg\\.rip",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?annas-archive\\.se",
@@ -3635,8 +3638,11 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?slutmoonbeam\\.com",
             "^http://blog\\.soylent\\.com",
             "^http://tv\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?forum\\.tvb\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mytvsuper\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tvbanywhere\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?akamai\\.tvb\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?inews-api\\.tvb\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?news\\.tvbs\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tvboxnow\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tvunetworks\\.com",
             "^https://tw-blog\\.com",
@@ -6578,8 +6584,6 @@ var rules = [
             "*.tumblr.com*",
             "*.tv.com*",
             "*tvants.com*",
-            "*news.tvbs.com.tw*",
-            "*.tvboxnow.com*",
             "*tvider.com*",
             "*.tvmost.com.hk*",
             "*.tvplayvideos.com*",
