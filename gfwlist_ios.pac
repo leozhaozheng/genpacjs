@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/29/2026, 7:53:22 PM
- * GFWList Last-Modified: Thu, 29 Jan 2026 07:54:31 +0000
+ * Generated: 1/30/2026, 7:54:22 PM
+ * GFWList Last-Modified: Fri, 30 Jan 2026 12:58:01 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3175,6 +3175,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.org",
             "^http://rxhj\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?simianx\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?steamladder\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sora\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lt\\.sntp\\.uk",
@@ -4017,6 +4018,7 @@ var rules = [
             "^http://xxx\\.xxx",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xxxx\\.com\\.au",
             "^http://xxxymovies\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yfsp\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youmind\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yangzhi\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?storage\\.yandex\\.net",
