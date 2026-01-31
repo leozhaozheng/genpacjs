@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 1/30/2026, 7:54:22 PM
- * GFWList Last-Modified: Fri, 30 Jan 2026 12:58:01 +0000
+ * Generated: 1/31/2026, 7:43:50 PM
+ * GFWList Last-Modified: Sat, 31 Jan 2026 07:10:25 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1255,6 +1255,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?help\\.byspotify\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bitbaby\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bettergpt\\.chat",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bt4gprx\\.com",
@@ -2570,6 +2571,7 @@ var rules = [
             "^http://lyfhk\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzjscript\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzmtnews\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dcs-spotify\\.megaphone\\.fm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mij\\.rip",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mji\\.rip",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mjj\\.rip",
@@ -3410,6 +3412,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sydneytoday\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sylfoundation\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?syncback\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bbc\\.pdn\\.tritondigital\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?terobox\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?temu\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?trustwallet\\.com",
