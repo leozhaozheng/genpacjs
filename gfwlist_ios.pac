@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/5/2026, 7:59:39 PM
- * GFWList Last-Modified: Thu, 05 Feb 2026 10:25:56 +0000
+ * Generated: 2/6/2026, 7:57:52 PM
+ * GFWList Last-Modified: Fri, 06 Feb 2026 14:26:36 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1257,6 +1257,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?axureformac\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?azirevpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?boxun.*\\.azurewebsites\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bittorrent\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?help\\.byspotify\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bitbaby\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bettergpt\\.chat",
@@ -2124,6 +2125,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gumroad\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gunsamerica\\.com",
             "^http://gvlib\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?v2\\.hysteria\\.network",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hembed\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.hoyolab\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hbomax\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?hicairo\\.com",
