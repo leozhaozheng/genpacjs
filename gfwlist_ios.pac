@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/13/2026, 8:01:03 PM
- * GFWList Last-Modified: Fri, 13 Feb 2026 12:49:26 +0000
+ * Generated: 2/14/2026, 7:46:46 PM
+ * GFWList Last-Modified: Sat, 14 Feb 2026 13:50:58 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2877,7 +2877,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nexttv\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?co\\.ng\\.mil",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nga\\.mil",
-            "^http://nhentai\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nhentai\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nicovideo\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ninjaproxy\\.ninja",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?niusnews\\.com",
@@ -3930,6 +3930,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vrporn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vtunnel\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vuku\\.cc",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wallzhihu\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikis\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?weights\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikiunblocked\\.org",
