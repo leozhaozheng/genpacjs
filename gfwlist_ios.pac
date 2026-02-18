@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/17/2026, 8:03:41 PM
- * GFWList Last-Modified: Mon, 16 Feb 2026 11:10:32 +0000
+ * Generated: 2/18/2026, 8:04:12 PM
+ * GFWList Last-Modified: Wed, 18 Feb 2026 13:32:07 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -942,7 +942,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?googleweblight\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?googlezip\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gstatic\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gvt1\\.com\\]",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gvt1\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gvt3\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gwtproject\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?html5rocks\\.com",
@@ -2625,6 +2625,7 @@ var rules = [
             "^http://lyfhk\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzjscript\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzmtnews\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mosavi\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dcs-spotify\\.megaphone\\.fm",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mij\\.rip",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mji\\.rip",
