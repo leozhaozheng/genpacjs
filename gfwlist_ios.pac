@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 2/21/2026, 7:47:23 PM
- * GFWList Last-Modified: Sat, 21 Feb 2026 07:04:51 +0000
+ * Generated: 2/22/2026, 7:47:50 PM
+ * GFWList Last-Modified: Sun, 22 Feb 2026 11:11:24 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3476,6 +3476,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sydneytoday\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sylfoundation\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?syncback\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tor\\.eff\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tails\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bbc\\.pdn\\.tritondigital\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?terobox\\.com",
@@ -3768,6 +3769,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blog\\.expofutures\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?contests\\.twilio\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?typora\\.io",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uniswap\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?up\\.audio",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?udomain\\.hk",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?upbit\\.com",
