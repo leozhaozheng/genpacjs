@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/1/2026, 7:44:30 PM
- * GFWList Last-Modified: Tue, 24 Feb 2026 13:37:10 +0000
+ * Generated: 3/2/2026, 7:58:54 PM
+ * GFWList Last-Modified: Mon, 02 Mar 2026 11:25:14 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1489,6 +1489,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bwh1\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bypasscensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?claude\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.clashverge\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clementine-player\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?backend-v2\\.crixet\\.com",
@@ -2378,7 +2379,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagevenue\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imagezilla\\.net",
             "^http://imb\\.org",
-            "^http://www\\.imdb\\.com/name/nm0482730",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?img\\.ly",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgasd\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?imgur\\.com",
@@ -2628,6 +2628,7 @@ var rules = [
             "^http://lyfhk\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzjscript\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lzmtnews\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?manus\\.im",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?meee\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mosavi\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?dcs-spotify\\.megaphone\\.fm",
