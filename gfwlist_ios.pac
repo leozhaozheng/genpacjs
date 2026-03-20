@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/19/2026, 8:01:48 PM
- * GFWList Last-Modified: Thu, 19 Mar 2026 05:49:29 +0000
+ * Generated: 3/20/2026, 7:57:18 PM
+ * GFWList Last-Modified: Fri, 20 Mar 2026 09:23:10 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1495,6 +1495,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bwh1\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bypasscensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cia\\.gov",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?claude\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.clashverge\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clementine-player\\.org",
