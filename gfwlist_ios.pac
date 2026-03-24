@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 3/23/2026, 8:03:29 PM
- * GFWList Last-Modified: Mon, 23 Mar 2026 04:40:29 +0000
+ * Generated: 3/24/2026, 8:03:42 PM
+ * GFWList Last-Modified: Tue, 24 Mar 2026 04:45:53 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -331,6 +331,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?btc\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?r-pool\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?w-pool\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--1jqvh729avzfcy2d8ummib\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--9iqy04a7fi01l\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--u2u927b\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xn--11xs86f\\.icu",
