@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 4/3/2026, 8:00:26 PM
- * GFWList Last-Modified: Fri, 03 Apr 2026 14:25:42 +0000
+ * Generated: 4/4/2026, 7:55:26 PM
+ * GFWList Last-Modified: Sat, 04 Apr 2026 02:42:53 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -26,7 +26,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?g1\\.gstatic\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?g0\\.gstatic\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?checkin\\.gstatic\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?.*\\.ipify\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?i\\.pki\\.goog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?c\\.pki\\.goog",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?o\\.pki\\.goog",
