@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 4/6/2026, 8:05:29 PM
- * GFWList Last-Modified: Sun, 05 Apr 2026 10:54:41 +0000
+ * Generated: 4/7/2026, 8:06:47 PM
+ * GFWList Last-Modified: Tue, 07 Apr 2026 13:58:23 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -17,6 +17,7 @@ var rules = [
         [
             "/(?:[^\\w\\-.%\\u0080-\\uFFFF]|$)https?:\\\\/\\\\/\\(?=\\..*?\\(2x3\\|ni5\\|j5o\\)\\)\\[a-z0-9\\.-\\]\\+\\\\\\.xn--ngstr-lra8j\\\\\\.com\\$",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.gov\\.tw",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?firebase-settings\\.crashlytics\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cn\\.investing\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.typepad\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?static\\.typepad\\.com",
@@ -703,6 +704,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?duck\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?feedburner\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?firebaseio\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?crashlytics\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?g\\.co",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gcr\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?get\\.app",
