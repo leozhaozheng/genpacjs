@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 4/10/2026, 8:02:46 PM
- * GFWList Last-Modified: Thu, 09 Apr 2026 11:10:05 +0000
+ * Generated: 4/11/2026, 7:57:53 PM
+ * GFWList Last-Modified: Sat, 11 Apr 2026 13:49:59 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3787,6 +3787,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?blog\\.expofutures\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?contests\\.twilio\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?typora\\.io",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sbti\\.unun\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uniswap\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?up\\.audio",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?udomain\\.hk",
