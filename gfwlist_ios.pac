@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/2/2026, 8:05:20 PM
- * GFWList Last-Modified: Sat, 02 May 2026 11:49:50 +0000
+ * Generated: 5/3/2026, 8:06:56 PM
+ * GFWList Last-Modified: Sun, 03 May 2026 14:24:19 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -466,10 +466,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uraban\\.me",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vrsmash\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vultryhw\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?scache\\.vzw\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?scache1\\.vzw\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?scache2\\.vzw\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ss7\\.vzw\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ssr\\.tools",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?steemit\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taiwanjustice\\.net",
