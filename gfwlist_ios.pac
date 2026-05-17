@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/16/2026, 8:12:13 PM
- * GFWList Last-Modified: Wed, 13 May 2026 10:51:27 +0000
+ * Generated: 5/17/2026, 8:25:51 PM
+ * GFWList Last-Modified: Sun, 17 May 2026 09:41:29 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3279,6 +3279,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rutracker\\.org",
             "^http://rxhj\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sider\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinchew\\.com\\.my",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?softether\\.co\\.jp",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?shitjournal\\.org",
@@ -4186,6 +4187,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yyjlymb\\.xyz",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yysub\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yzzk\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zhangzhehan\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?zaochenbao\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?z-library\\.ec",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?z-library\\.sk",
