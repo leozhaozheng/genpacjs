@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 5/24/2026, 8:31:17 PM
- * GFWList Last-Modified: Fri, 22 May 2026 12:17:45 +0000
+ * Generated: 5/25/2026, 8:49:36 PM
+ * GFWList Last-Modified: Mon, 25 May 2026 04:46:31 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2787,6 +2787,7 @@ var rules = [
             "^http://motherless\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?movements\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?moviefap\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mozilla\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.moztw\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mpettis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mpfinance\\.com",
