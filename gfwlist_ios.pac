@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/4/2026, 9:12:46 PM
- * GFWList Last-Modified: Fri, 29 May 2026 13:43:25 +0000
+ * Generated: 6/5/2026, 9:08:54 PM
+ * GFWList Last-Modified: Fri, 05 Jun 2026 04:45:19 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -595,7 +595,6 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bloomberg\\.de",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bloombergview\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cloudflarestatus\\.com",
-            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?pages\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?workers\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?one\\.one\\.one\\.one",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cloudflare-dns\\.com",
@@ -3523,6 +3522,7 @@ var rules = [
             "^http://surfeasy\\.com\\.au",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?surfshark\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?surrenderat20\\.net",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?suyingtv\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?swissinfo\\.ch",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?swissvpn\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?switchvpn\\.net",
@@ -4092,6 +4092,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xijie\\.wordpress\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ifreechina\\.wordpress\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wp\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wplace\\.live",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wowporn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wowgirls\\.com",
             "^http://woyaolian\\.org",
