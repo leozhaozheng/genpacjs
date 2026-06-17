@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/16/2026, 10:01:23 PM
- * GFWList Last-Modified: Fri, 05 Jun 2026 04:45:19 +0000
+ * Generated: 6/17/2026, 9:30:35 PM
+ * GFWList Last-Modified: Wed, 17 Jun 2026 14:04:05 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3410,6 +3410,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinocast\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinoants\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinoinsider\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinyalee\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sis001\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sitekreator\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sitemaps\\.org",
