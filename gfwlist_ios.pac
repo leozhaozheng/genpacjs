@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 6/23/2026, 9:14:55 PM
- * GFWList Last-Modified: Fri, 19 Jun 2026 14:36:45 +0000
+ * Generated: 6/24/2026, 9:10:31 PM
+ * GFWList Last-Modified: Wed, 24 Jun 2026 13:45:12 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -133,6 +133,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?funkyimg\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?fxnetworks\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?g-area\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?get\\.dappcdn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gettyimages\\.ca",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gettyimages\\.us",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?gettyimages\\.hk",
