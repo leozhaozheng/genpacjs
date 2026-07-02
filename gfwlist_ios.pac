@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/1/2026, 9:08:31 PM
- * GFWList Last-Modified: Mon, 29 Jun 2026 04:16:24 +0000
+ * Generated: 7/2/2026, 8:42:46 PM
+ * GFWList Last-Modified: Thu, 02 Jul 2026 11:24:32 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4084,6 +4084,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?weights\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikiunblocked\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?websdr\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?webshare\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wikipedia\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wxw\\.moe",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?wxw\\.cat",
