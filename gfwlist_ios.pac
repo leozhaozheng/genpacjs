@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/19/2026, 8:24:30 PM
- * GFWList Last-Modified: Sat, 18 Jul 2026 01:04:10 +0000
+ * Generated: 7/20/2026, 8:50:14 PM
+ * GFWList Last-Modified: Mon, 20 Jul 2026 11:42:32 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1586,6 +1586,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bwh1\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bypasscensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?clashyun\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chonglangtv\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ctinsider\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cia\\.gov",
@@ -3395,6 +3396,7 @@ var rules = [
             "^http://rxhj\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?raphael\\.app",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rule34\\.us",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sysub\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sider\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sinchew\\.com\\.my",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?softether\\.co\\.jp",
