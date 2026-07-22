@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/21/2026, 8:45:51 PM
- * GFWList Last-Modified: Tue, 21 Jul 2026 15:10:45 +0000
+ * Generated: 7/22/2026, 8:40:29 PM
+ * GFWList Last-Modified: Wed, 22 Jul 2026 09:25:55 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -17,6 +17,7 @@ var rules = [
         [
             "/(?:[^\\w\\-.%\\u0080-\\uFFFF]|$)https?:\\\\/\\\\/\\(?=\\..*?\\(2x3\\|ni5\\|j5o\\)\\)\\[a-z0-9\\.-\\]\\+\\\\\\.xn--ngstr-lra8j\\\\\\.com\\$",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.gov\\.tw",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?.*\\.tokenplus\\.app",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?firebase-settings\\.crashlytics\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cn\\.investing\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?www\\.typepad\\.com",
@@ -3667,6 +3668,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?textnow\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?token\\.im",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tokenlon\\.im",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tokenplus\\.app",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tardigrade\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?torrentgalaxy\\.to",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tomp3\\.cc",
