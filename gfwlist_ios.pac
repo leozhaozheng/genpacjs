@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 7/29/2026, 8:31:32 PM
- * GFWList Last-Modified: Mon, 27 Jul 2026 03:36:40 +0000
+ * Generated: 7/30/2026, 8:44:08 PM
+ * GFWList Last-Modified: Thu, 30 Jul 2026 07:56:33 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2669,6 +2669,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kxsw\\.life",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kzaobao\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?kzeng\\.info",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?level-plus\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?libgen\\.is",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lemonde\\.fr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?lantern\\.io",
@@ -4006,6 +4007,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uyghurstudies\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?uyghurtribunal\\.com",
             "^http://uymaarip\\.com/",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?v\\.recipes",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vox\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vimeocdn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?vpsxb\\.net",
