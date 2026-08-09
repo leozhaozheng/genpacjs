@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/8/2026, 7:55:19 PM
- * GFWList Last-Modified: Thu, 06 Aug 2026 08:35:22 +0000
+ * Generated: 8/9/2026, 7:59:35 PM
+ * GFWList Last-Modified: Sun, 09 Aug 2026 12:59:49 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1251,6 +1251,9 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9bis\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?9news\\.com\\.au",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?basemaps\\.arcgis\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?experience\\.arcgis\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?aihub\\.top",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?accountboy\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?acg\\.mn",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?asiasociety\\.org",
@@ -3304,6 +3307,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?qtrac\\.eu",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?quitccp\\.org",
             "^http://quran\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?esim\\.redteago\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?restofworld\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rts\\.ch",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rawstory\\.com",
