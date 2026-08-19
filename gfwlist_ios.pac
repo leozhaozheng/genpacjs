@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 8/18/2026, 7:52:23 PM
- * GFWList Last-Modified: Tue, 18 Aug 2026 11:57:04 +0000
+ * Generated: 8/19/2026, 8:06:58 PM
+ * GFWList Last-Modified: Wed, 19 Aug 2026 02:15:34 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3035,6 +3035,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nyaa\\.si",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nybooks\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nypost\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?oldmapsonline\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?umap\\.openstreetmap\\.fr",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?overdrive\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?openart\\.ai",
