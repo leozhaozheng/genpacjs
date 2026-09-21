@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 9/20/2026, 9:45:20 PM
- * GFWList Last-Modified: Fri, 11 Sep 2026 14:54:15 +0000
+ * Generated: 9/21/2026, 10:46:25 PM
+ * GFWList Last-Modified: Mon, 21 Sep 2026 12:27:46 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1579,6 +1579,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bwh1\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bypasscensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chineseposters\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ctee\\.com\\.tw",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chatgpt\\.site",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cht\\.com\\.tw",
@@ -2922,6 +2923,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?myparagliding\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?mypopescu\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?myspacecdn\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?note\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nthlink\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?neodb\\.social",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?nfscofficial\\.com",
