@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/1/2026, 11:22:24 PM
- * GFWList Last-Modified: Thu, 01 Oct 2026 02:10:03 +0000
+ * Generated: 10/2/2026, 11:11:48 PM
+ * GFWList Last-Modified: Fri, 02 Oct 2026 13:31:18 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3411,6 +3411,7 @@ var rules = [
             "^http://rxhj\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?raphael\\.app",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?rule34\\.us",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sing-box\\.sagernet\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?supjav\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?api\\.shuaiapi\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sb\\.sb",
