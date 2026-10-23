@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/22/2026, 10:38:51 PM
- * GFWList Last-Modified: Sat, 17 Oct 2026 14:35:56 +0000
+ * Generated: 10/23/2026, 10:32:07 PM
+ * GFWList Last-Modified: Fri, 23 Oct 2026 10:29:54 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1601,6 +1601,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bvpn\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bwh1\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bypasscensorship\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?console\\.typesafe\\.ai",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?cangku\\.moe",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?chineseposters\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ctee\\.com\\.tw",
@@ -2598,6 +2599,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ixquick\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iyouport\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?iyouport\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?ga\\.jspm\\.io",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?javchu\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?jkforum\\.net",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?javfree\\.me",
