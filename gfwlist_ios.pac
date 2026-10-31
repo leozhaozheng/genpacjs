@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 10/30/2026, 11:07:26 PM
- * GFWList Last-Modified: Fri, 30 Oct 2026 05:24:27 +0000
+ * Generated: 10/31/2026, 10:45:18 PM
+ * GFWList Last-Modified: Sat, 31 Oct 2026 05:12:41 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3707,6 +3707,8 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sylfoundation\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?syncback\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?sotwe\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?api\\.themoviedb\\.org",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?torrentleech\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?taiav\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?tryai\\.dev",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?theintercept\\.com",
@@ -4343,6 +4345,7 @@ var rules = [
             "^http://xxx\\.xxx",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?xxxx\\.com\\.au",
             "^http://xxxymovies\\.com",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youversionapi\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yfsp\\.tv",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?youmind\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?yangzhi\\.org",
