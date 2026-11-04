@@ -1,7 +1,7 @@
 /**
  * genpac 1.3.0
- * Generated: 11/3/2026, 1:44:30 AM
- * GFWList Last-Modified: Sat, 31 Oct 2026 05:12:41 +0000
+ * Generated: 11/4/2026, 12:09:17 AM
+ * GFWList Last-Modified: Tue, 03 Nov 2026 11:32:08 +0000
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1520,6 +1520,7 @@ var rules = [
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bigjapanesesex\\.com",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bignews\\.org",
             "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bild\\.de",
+            "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?bilibili\\.tv",
             "^http://biliworld\\.com",
             "^http://bit\\.do",
             "^http://bit\\.ly",
